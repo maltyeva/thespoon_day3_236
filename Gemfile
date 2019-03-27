@@ -30,6 +30,8 @@ gem 'jbuilder', '~> 2.5'
 
 #frontend gems
 gem 'simple_form'
+
+gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
 # Use ActiveStorage variant
 # gem 'mini_magick', '~> 4.8'
 
